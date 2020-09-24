@@ -1,9 +1,9 @@
 const List<String> currenciesList = [
+  'EUR',
   'AUD',
   'BRL',
   'CAD',
   'CNY',
-  'EUR',
   'GBP',
   'HKD',
   'IDR',
@@ -27,5 +27,3 @@ const List<String> cryptoList = [
   'ETH',
   'LTC',
 ];
-
-class CoinData {}
